@@ -14,7 +14,7 @@ I'm the maintainer of more than 11 open source projects, such as:
 
 * **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app allowing the inventory of vélibs French stations according to a filter applied by the user.
 * **[SIO-CHAT](https://github.com/EduWireApps/SIO-CHAT)**, Messaging app allowing several people to chat with each other in real time.
-* **[REPERTOIRE_jfx](https://github.com/jabibamman/Repertoire_jfx)**, directory app that lists people registered in the database, such as the french "page jaune".
+* **[REPERTOIRE_jfx](https://github.com/jabibamman/Repertoire_jfx)**, directory app that lists people registered in the database, such as the french "pages jaune".
 * and more like **[Ups_Manager](https://github.com/jabibamman/Ups_Manager)**, **[GLPI_Ticket_Script](https://github.com/jabibamman/GLPI_Ticket_Script)**, **[ChakalDrip](https://github.com/jabibamman/ChakalDrip)**... !
 
 [//]: # (### Skills & Tools 🖱️)
