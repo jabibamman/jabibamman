@@ -6,6 +6,8 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 *Oh and you can see my journey on my **[portfolio](https://abib-james.fr)** ! 📝*
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabibamman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projects ✨
 
 99% of my projects are open source, and I'm always looking for new contributors.
