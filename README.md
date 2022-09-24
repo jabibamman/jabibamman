@@ -26,4 +26,4 @@ I'm the maintainer of more than 11 open source projects, such as:
 
 ### Contact me 🤝
 
-I'm available on **[Linkedin](https://www.linkedin.com/in/jamesabib/)** and **[Discord](https://discord.com/users/144466116507467777)**.
+I'm available on **[Linkedin](https://www.linkedin.com/in/jamesabib/)** and **[Discord](https://discord.com/invite/YG5YsduA)**.
