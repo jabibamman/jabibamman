@@ -10,7 +10,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 99% of my projects are open source, and I'm always looking for new contributors.
 
-I'm the maintainer of more than 11 open source projects, such as:
+I'm the maintainer of more than 14 open source projects, such as:
 
 
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app allowing several people to chat with each other in real time.
