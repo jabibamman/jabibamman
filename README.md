@@ -12,7 +12,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 I'm the maintainer of more than 14 open source projects, such as:
 
-
+* **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app allowing several people to chat with each other in real time.
 * **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app allowing the inventory of vélibs French stations according to a filter applied by the user.
 * **[REPERTOIRE_jfx](https://github.com/jabibamman/Repertoire_jfx)**, directory app that lists people registered in the database, such as the french "pages jaune".
