@@ -21,7 +21,8 @@ I'm the maintainer of more than 17 open source projects, such as:
 [//]: # (### Skills & Tools 🖱️)
 [//]: # (// TODO : add a list of my skills)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabibamman)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabibamman&show_icons=true&theme=transparent)
+
 ### Contact me 🤝
 
 I'm available on **[Linkedin](https://www.linkedin.com/in/jamesabib/)** and **[Discord](https://discord.gg/vTZ3hB4952)**.
