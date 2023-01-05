@@ -24,7 +24,7 @@ I'm the maintainer of more than 17 open source projects, such as:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabibamman&show_icons=true&theme=transparent)
 
 ### Languages i used since past year
-<a href="https://wakatime.com/@jabibamman"><img src="[https://wakatime.com/share/@jabibamman/b718118a-a646-42fe-a7d5-b84c4591cb98.svg](https://wakatime.com/share/@jabibamman/ff0dee0e-f32f-4420-bb5e-eceefd74ebce.svg)" height="320px"></a>
+<a href="https://wakatime.com/@jabibamman"><img src="https://wakatime.com/share/@jabibamman/b718118a-a646-42fe-a7d5-b84c4591cb98.svg" height="320px"></a>
 
 ### Contact me 🤝
 
