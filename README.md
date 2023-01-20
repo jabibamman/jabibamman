@@ -10,7 +10,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 99% of my projects are open source, and I'm always looking for new contributors.
 
-I'm the maintainer of more than 17 open source projects, such as:
+I'm the maintainer of more than 21 open source projects, such as:
 
 * **[TodoListAPP](https://github.com/jabibamman/ToDoList)**, JavaFX app with successful test by Junit5 and Mockito.
 * **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
