@@ -16,7 +16,7 @@ I'm the maintainer of more than 21 open source projects, such as:
 * **[TodoListAPP](https://github.com/jabibamman/ToDoList)**, JavaFX app with successful test by Junit5 and Mockito.
 * **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app where you can chat with several people in real time.
-* **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app allowing the inventory of vélibs French stations according to a filter applied by the user.
+* **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app thats lists the inventory of vélibs French stations according to a filter applied by the user.
 * **[REPERTOIRE_jfx](https://github.com/jabibamman/Repertoire_jfx)**, directory app that lists people registered in the database, such as the french "pages jaune".
 * and more like **[Ups_Manager](https://github.com/jabibamman/Ups_Manager)**, **[GLPI_Ticket_Script](https://github.com/jabibamman/GLPI_Ticket_Script)**, **[ChakalDrip](https://github.com/jabibamman/ChakalDrip)**... !
 
