@@ -12,8 +12,8 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 I'm the maintainer of more than 21 open source projects, such as:
 
+* **[ZooMasterAPI]([https://github.com/jabibamman/ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI))**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
 * **[BiblioNest](https://github.com/jabibamman/BiblioNest)**, Angular app NestJS api to manage your books and what book you want to read
-* **[TodoListAPP](https://github.com/jabibamman/ToDoList)**, Todolist JavaFX app tested by Junit5 and Mockito.
 * **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app where you can chat with several people in real time.
 * **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app thats lists the inventory of vélibs French stations according to a filter applied by the user.
