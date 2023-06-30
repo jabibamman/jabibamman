@@ -12,7 +12,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 I'm the maintainer of more than 21 open source projects, such as:
 
-* **[ZooMasterAPI]([https://github.com/jabibamman/ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI))**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
+* **[ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI)**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
 * **[BiblioNest](https://github.com/jabibamman/BiblioNest)**, Angular app NestJS api to manage your books and what book you want to read
 * **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app where you can chat with several people in real time.
