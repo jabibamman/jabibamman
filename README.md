@@ -10,7 +10,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 99% of my projects are open source, and I'm always looking for new contributors.
 
-I'm the maintainer of more than 38 open source projects, such as:
+I'm the maintainer of more than 39 open source projects, such as:
 
 * **[GreenItForward](https://github.com/GreenItForward)**, Crowdfunding app and community space similar to Reddit. We made it with Angular and NestJS
 * **[ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI)**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
