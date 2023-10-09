@@ -12,13 +12,13 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 I'm the maintainer of more than 41 open source projects, such as:
 
+* **[NexusCLI](https://github.com/jabibamman/NexusCLI)**, Rust-based command-line tool for managing Nexus repositories.
 * **[GreenItForward](https://github.com/GreenItForward)**, Crowdfunding app and community space similar to Reddit. We made it with Angular and NestJS
 * **[ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI)**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
 * **[BiblioNest](https://github.com/jabibamman/BiblioNest)**, Angular app NestJS api to manage your books and what book you want to read
 * **[GroundBreaker](https://github.com/valentinb-sixense/groundbreaker)**, Bomberman game made with SDL2 in C in real time.
 * **[SIO-CHAT](https://github.com/jabibamman/SIO-CHAT)**, Messaging app where you can chat with several people in real time.
 * **[Velib_JFX](https://github.com/jabibamman/Velib_JFX)**, app thats lists the inventory of vélibs French stations according to a filter applied by the user.
-* **[REPERTOIRE_jfx](https://github.com/jabibamman/Repertoire_jfx)**, directory app that lists people registered in the database, such as the french "pages jaune".
 * and more like **[Ups_Manager](https://github.com/jabibamman/Ups_Manager)**, **[GLPI_Ticket_Script](https://github.com/jabibamman/GLPI_Ticket_Script)**, **[ChakalDrip](https://github.com/jabibamman/ChakalDrip)**... !
 
 [//]: # (### Skills & Tools 🖱️)
