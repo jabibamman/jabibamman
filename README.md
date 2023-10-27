@@ -10,7 +10,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 99% of my projects are open source, and I'm always looking for new contributors.
 
-I'm the maintainer of more than 41 open source projects, such as:
+I'm the maintainer of more than 42 open source projects, such as:
 
 * **[NexusCLI](https://github.com/jabibamman/NexusCLI)**, Rust-based command-line tool for managing Nexus repositories.
 * **[GreenItForward](https://github.com/GreenItForward)**, Crowdfunding app and community space similar to Reddit. We made it with Angular and NestJS
