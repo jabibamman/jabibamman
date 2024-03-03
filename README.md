@@ -12,7 +12,7 @@ I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
 I'm the maintainer of more than 44 open source projects, such as:
 
-* **[Frakt](https://github.com/jabibamman/frakt)**, Frakt is a Rust-based project focused on the computation and visualization of fractals.
+* **[Frakt](https://github.com/jabibamman/frakt)**, is a Rust-based project focused on the computation and visualization of fractals.
 * **[NexusCLI](https://github.com/jabibamman/NexusCLI)**, Rust-based command-line tool for managing Nexus repositories.
 * **[GreenItForward](https://github.com/GreenItForward)**, Crowdfunding app and community space similar to Reddit. We made it with Angular and NestJS
 * **[ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI)**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
