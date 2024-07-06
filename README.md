@@ -4,7 +4,7 @@ Welcome to my page! I'm James, a code-addicted student from <img src="/img/fra.j
 
 I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
-*Oh and you can see my journey on my **[portfolio](https://abib-james.fr)** ! 📝*
+*Oh and you can see my journey on my **[portfolio]()** ! 📝*
 
 ### Projects ✨
 
