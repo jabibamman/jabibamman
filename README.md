@@ -16,7 +16,7 @@ I'm the maintainer of more than 44 open source projects, such as:
 * **[Frakt](https://github.com/jabibamman/frakt)**, is a Rust-based project focused on the computation and visualization of fractals.
 * **[Leitner System](https://github.com/jabibamman/leitner-system)**, is an API for enhanced learning using spaced repetition.It follows SOLID, DDD, and Hexagonal Architecture for high code quality and extensibility.
 * **[Pipeline Orchestrator](https://github.com/jabibamman/pipeline-orchestrator)**, NestJS pipeline orchestrator, it facilitates communication with the dyno-code microservice.
-* * **[Game Of Life](https://github.com/jabibamman/gol)**, Kotlin Game Of life implemented using BDD with Gherkin syntax and Cucumber for testing.
+*  **[Game Of Life](https://github.com/jabibamman/gol)**, Kotlin Game Of life implemented using BDD with Gherkin syntax and Cucumber for testing.
 * **[GreenItForward](https://github.com/GreenItForward)**, Crowdfunding app and community space similar to Reddit. We made it with Angular and NestJS
 * **[ZooMasterAPI](https://github.com/jabibamman/ZooMasterAPI)**, Managing a Zoo thanks to a flexible API built with TypeScript, Express, Mongoose, and Docker
 * **[BiblioNest](https://github.com/jabibamman/BiblioNest)**, Angular app NestJS api to manage your books and what book you want to read
