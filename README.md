@@ -1,6 +1,6 @@
 ### Hello friend 👋
 
-Welcome to my page! I'm James, a code-addicted student from <img src="/img/fra.jpg" width="16" />  **Paris, France**.
+Welcome to my page! I'm James, a code-addicted developer from <img src="/img/fra.jpg" width="16" />  **Paris, France**.
 
 I also play  **video games**🕹️ and **code**  💻 to make my day ;)
 
