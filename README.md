@@ -26,7 +26,7 @@ I'm the maintainer of more than 44 open source projects, such as:
 [//]: # (### Skills & Tools 🖱️)
 [//]: # (// TODO : add a list of my skills)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabibamman&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jabibamman)](https://github.com/stats-organization/github-stats-extended)
 
 ### Languages i used since past year 💻
 <a href="https://wakatime.com/@jabibamman"><img src="https://wakatime.com/share/@jabibamman/ae271700-0703-4bb8-af14-20f33c2d877b.png" height="320px"></a>
